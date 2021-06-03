@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proces or vnpardonable crimes committed by the parisians leaguers, who haue beene authors of all the troubles, warres, and calamities in France, and at this present feeling them selues oppressed with miserie, in most humble sort doe seeke and intreat to come unto composition. VVherin all true subiectes may learne to beware, not to resist and rebel against their soueraign, by any allurements of traytours and seditious men.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13628</idno><idno type="EEBO-CITATION">99892865</idno>
+  <idno type="VID">190333</idno>
+  <idno type="EEBO-PROQUEST">2240938531</idno>
+  
+            <idno type="STC">STC 11287.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.132.h.25[6]</idno>
+            <idno type="PROQUEST">ocm99892865</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892865e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190333)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C20:1[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proces or vnpardonable crimes committed by the parisians leaguers, who haue beene authors of all the troubles, warres, and calamities in France, and at this present feeling them selues oppressed with miserie, in most humble sort doe seeke and intreat to come unto composition. VVherin all true subiectes may learne to beware, not to resist and rebel against their soueraign, by any allurements of traytours and seditious men.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Wolfe, and are to be solde by Edward White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Henry IV, 1589-1610 --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Wars of the Huguenots, 1562-1598 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190333:1"/>
+            <pb facs="tcp:190333:1"/>
+            <p>THE Proces or vnpardonable crimes committed by the Parisians Leaguers, who haue beene Authors of all the troubles, warres, and calamities in <hi>France, and at this present feeling them selues oppres<g ref="char:EOLhyphen"/>sed with miserie, in most humble sort doe</hi> seeke and intreat to come vnto composition.</p>
+            <p>
+               <hi>VVherein all true subiectes may</hi> learne to beware, not to resist and rebel against their Soueraign, <hi>by any allurements of Traytours and seditious men.</hi>
+            </p>
+            <figure>
+               <figDesc>decorative device</figDesc>
+            </figure>
+            <p>LONDON. Printed by Iohn Wolfe, and are to be solde by Edward White. 1590.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:190333:2"/>
+            <pb facs="tcp:190333:2"/>
+            <head>The proces or vnpardonable crimes <hi>com<g ref="char:EOLhyphen"/>mitted by the Parisians, Leaguers, who haue bin</hi> Au<g ref="char:EOLhyphen"/>thors of all the troubles, wars, and calamities in France, and at this present feeling themselues oppressed with misery, in most humble sort do seeke and intreat to come vnto composition.</head>
+            <lg>
+               <l>SEe the procéedings of these graceles men,</l>
+               <l>Tratours vntrue, cast downe in follies den,</l>
+               <l>That dareth yet their heades together raise,</l>
+               <l>Without submission séeking long delaies,</l>
+               <l>And yet like beasts most blindly led astray:</l>
+               <l>After much mischiefe acted many a way.</l>
+               <l>Causing such tumults troubles and debate,</l>
+               <l>Bringing them selues in miserable state,</l>
+               <l>And now not able any more to doe,</l>
+               <l>Séeing no meanes for them to trust vnto.</l>
+               <l>Cries to the King as folke in danger drownd,</l>
+               <l>Wée will compound, O king we will compound,</l>
+            </lg>
+            <lg>
+               <head>Article. 2.</head>
+               <l>After I say that they had lewdly béene,</l>
+               <l>Authors of all the mischiefe that was séene:</l>
+               <l>Protesting still them selues for to imploy,</l>
+               <l>In cruell sort the godly to destroy.</l>
+               <l>And hauing scrapped within and eke without,</l>
+               <l>Their gold and treasure al the realm throughout.</l>
+               <l>All this they did with purpose bad and euill.</l>
+               <l>Euen as they were incenced by the deuill.</l>
+               <l>In bloudy broiles them selues for to aduance,</l>
+               <l>Against the Princes and the pieres of France,</l>
+               <l>For which they crie as men in danger drownd,</l>
+               <l>Wée will compound, O king wee will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 3.</head>
+               <l>Who hath hereby abusd their noble kings,</l>
+               <l>Broken their lawes which peace &amp; plenty brings.</l>
+               <l>And in their rage and furie most vnstaide,</l>
+               <l>Their famous citie a bucherie they made.</l>
+               <l>By a most bloody massacre vnkinde,</l>
+               <l>That neuer can be driuen out of minde.</l>
+               <pb n="4" facs="tcp:190333:3"/>
+               <l> And ready was a greater sence to make,</l>
+               <l>But that the Lord their swordes in péeces brake.</l>
+               <l>And by a worke most wonderfull had brought,</l>
+               <l>Their vilde intents most damnable to naught.</l>
+               <l>But now they crie as men in danger drownd,</l>
+               <l>Wée will compound, O king we wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 4.</head>
+               <l>And in like manner did they chase away.</l>
+               <l>Their noble King most shamefully I say.</l>
+               <l>Euen from his Cittie chiefe and principall,</l>
+               <l>And from his faire and kingly house withall.</l>
+               <l>Defaming him in most disloyall sort,</l>
+               <l>His name, his fame, and déedes of princely port.</l>
+               <l>And in the end (a shamefull thing to tell)</l>
+               <l>Whē they perceiud their matters framd not wel.</l>
+               <l>Most cursedly to stint their hatefult strife,</l>
+               <l>By murder then they sought to end his life.</l>
+               <l>But now they crie as men in danger drownd,</l>
+               <l>Wée will compound, O king wee wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 5.</head>
+               <l>Not then content when liberty they had,</l>
+               <l>To be in bardes, in euill they will be mad.</l>
+               <l>Like to a people that doth daily cry,</l>
+               <l>Alas, alas, for sorrow here wée die.</l>
+               <l>The wicked ioy which in them seemd to spring,</l>
+               <l>Euen for the death of their most sarred king.</l>
+               <l>Which they them selues had murdered in spite,</l>
+               <l>And at his funerall triumphed in delight:</l>
+               <l>O noble Princes how can your hearts abide,</l>
+               <l>Their poisoned words which they w<seg rend="sup">t</seg> flattery hide</l>
+               <l>And yet can cry as men in danger drownd,</l>
+               <l>Wée will compound, O king we will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 6.</head>
+               <l>Haue they their king in his Sepulcar cast?</l>
+               <l>More enuious foes in wrath did neuer last,</l>
+               <pb n="5" facs="tcp:190333:3"/>
+               <l> Foes to the state and to she publique peace,</l>
+               <l>An heretique said they did late disease,</l>
+               <l>Against all right then did they vndertake,</l>
+               <l>Another King in prison they did make,</l>
+               <l>Thinking by Buls to gaine their harts desire,</l>
+               <l>But yet their mules did throw them in the mire,</l>
+               <l>That whē they thought to clime they caght a fal,</l>
+               <l>Which on a sodaine quickly spoiled all.</l>
+               <l>So that they crie as men in danger drownd,</l>
+               <l>Wée wil compound, O king we wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 7.</head>
+               <l>Through mallice great that boiled in their brest.</l>
+               <l>They did reuolt as they supposd it best.</l>
+               <l>Each one of them did shew their greatest power,</l>
+               <l>Yea all consented euery day and hower:</l>
+               <l>Their cursed league to strengthen and maintayn,</l>
+               <l>To raise new wars with al their might &amp; mayn.</l>
+               <l>Against the Prince of Bourbons roiall race,</l>
+               <l>Taking the Guises kindred in his place,</l>
+               <l>Estéeming chiefe the traitours Duke <hi>De Maine.</hi>
+               </l>
+               <l>Whose lewd attempts was proued bad in fine.</l>
+               <l>Who now cries out with all their forces round,</l>
+               <l>Wée will compound, O king we will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 8.</head>
+               <l>And in the end their last farewell to take,</l>
+               <l>Of Duke <hi>De Maine</hi> their strongest fort to make,</l>
+               <l>They ioinde their forces with his army then,</l>
+               <l>O traitours false and most disloiall men.</l>
+               <l>Which daily sought the roiall bloud to spill,</l>
+               <l>Triumphing much that they their king did kill,</l>
+               <l>Their king is dead, and yet their king doth liue,</l>
+               <l>That for their deedes iust recompence doth giue.</l>
+               <l>And through the God that guids and gouerns all.</l>
+               <l>They sée then selues brought into cruell shrall.</l>
+               <l>Which makes thē cry as men in danger drownd,</l>
+               <l>Wée wil compound, O king wee will compound.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:190333:4"/>
+               <head>Article. 9.</head>
+               <l>Haue they dischargd their garrisons ech where?</l>
+               <l>Of Spaniards, Lorrains, &amp; Wallons here &amp; there</l>
+               <l>Or is there army discomfited and fled?</l>
+               <l>That often bragd the Bourbons bloud to shed,</l>
+               <l>The péereles Duke and is he run away?</l>
+               <l>Their other leaders slaine or brough to bay?</l>
+               <l>Briefe are they beaten all on euery side?</l>
+               <l>And are they now abated of their pride?</l>
+               <l>And did they lose the victorie in an hower?</l>
+               <l>For all their strong their great &amp; mighty power?</l>
+               <l>Then may they crie as men in danger drownd,</l>
+               <l>Wée wil compound, O king wée wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 10.</head>
+               <l>The rectour of the schooles and schollers all,</l>
+               <l>The Austiue friers most lusty fatte and tall,</l>
+               <l>The newe-found secte of Iesuites likewise,</l>
+               <l>The créeping Crames for sword and fier cries,</l>
+               <l>And in their Sermons daily moues to warre,</l>
+               <l>Perswading men vnto a mortall iarre,</l>
+               <l>When by their brother Iacobin I say</l>
+               <l>They thought to beare the victorie away,</l>
+               <l>Yet from these matters quite daclining now,</l>
+               <l>Distres hath made them for to bend and bow.</l>
+               <l>Singing this song like men in danger drownd,</l>
+               <l>Wée will compound, O king we wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 11.</head>
+               <l>The Romane legate stout and proud of minde,</l>
+               <l>Frō Rome broght fire which France too fierce did finde,</l>
+               <l>Acknowleging Charls, &amp; not y<seg rend="sup">t</seg> Henry hée,</l>
+               <l>Should raign as king, if Pope obaide shoulde bee.</l>
+               <l>Though al the world with plain and a clear sight,</l>
+               <l>Doth know full well it is king Henries right.</l>
+               <l>Henry I say a prince of glorious fame,</l>
+               <l>And now in France the fourth king of that name.</l>
+               <pb n="7" facs="tcp:190333:4"/>
+               <l> Which makes them all vnto the water runne,</l>
+               <l>To quench the fire that late so fierce did burne.</l>
+               <l>The legat hearing al mens voices sound,</l>
+               <l>Wée will compound, O king we wil compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 12.</head>
+               <l>You Englishmen, you States &amp; Flemings néere,</l>
+               <l>Iudge I desire the Frenchmens doings here,</l>
+               <l>Which if they durst would to the Spaniards yéeld</l>
+               <l>If by their meanes they might attaine the feeld.</l>
+               <l>And if they could the lawfull heire beate down,</l>
+               <l>They would contract these strangers to y<seg rend="sup">e</seg> crown.</l>
+               <l>Wherein their wrong and folly doth appeare,</l>
+               <l>The best of them would buie the bargaine deare,</l>
+               <l>But seeing all these proffers will not proue,</l>
+               <l>And that the Lorde their succours doth remoue.</l>
+               <l>All cry at once which deepe distres haue found,</l>
+               <l>We will compound, O king we will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 13.</head>
+               <l>Much like vnto a wicked farmour set,</l>
+               <l>In such a place where he great gaines may get,</l>
+               <l>And for the lucar of his gaines vnknowne,</l>
+               <l>Would disposes the Landlord of his owne,</l>
+               <l>And seeke by law to hold away his right,</l>
+               <l>By briberie, fraud, by countenance and might.</l>
+               <l>And after seeing all will not preuaile,</l>
+               <l>When of his purpose he is like to faile,</l>
+               <l>And that his paines, his trauell and his cost,</l>
+               <l>In vaine is spent and all his money lost.</l>
+               <l>Like such a one, these peoples cries are found,</l>
+               <l>We wil compound, O king we will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 14.</head>
+               <l>Or like vnto a most notorious théefe,</l>
+               <l>A bloody wretch that was in murder cheefe.</l>
+               <l>That had from place to place in prison beene,</l>
+               <l>From sundry thefts and murders that was seene.</l>
+               <pb n="8" facs="tcp:190333:5"/>
+               <l> Whose wicked deedes had cruell death deserude,</l>
+               <l>Though from the same he was a while preserude.</l>
+               <l>And furthermore attempted had to kill</l>
+               <l>His noble grace, whom God defendeth still,</l>
+               <l>Yet durst presinne in shameles sort to craue,</l>
+               <l>A pardon meete his lothed life to saue.</l>
+               <l>Such is the sute which in these men is found,</l>
+               <l>Crying in griefe, O king wee will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 15.</head>
+               <l>As soone they may suppose by rage extreine,</l>
+               <l>To teare and pull the sonne from out of heauen,</l>
+               <l>As by the force of armed men in field,</l>
+               <l>To foile the prince which God himself doth shield.</l>
+               <l>Of persons then that haue rebellious beene,</l>
+               <l>Let them be turnd and humble subiects séene.</l>
+               <l>And for their faults as it is right and meete,</l>
+               <l>Let them fal down euen at their Souerains féete,</l>
+               <l>Al rage and rancor from them let they then fling,</l>
+               <l>And from their harts cry all God saue the King.</l>
+               <l>And not like geese stand gagling on the ground,</l>
+               <l>Saying O king, Oh king we will compound.</l>
+            </lg>
+            <lg>
+               <head>Article. 16.</head>
+               <l>If in their mindes this motion neuer went,</l>
+               <l>That wicked men shall feele Gods punishment.</l>
+               <l>For there rebellion throughout all estates,</l>
+               <l>Will sodaine vengeance fall euen at their gates,</l>
+               <l>And so by litle, and by litle then,</l>
+               <l>They will become perforce obedient men.</l>
+               <l>All robbery and pillage set aside,</l>
+               <l>And by their labour maintenance prouide.</l>
+               <l>When al their souldiers like Citizens wel known</l>
+               <l>Shall liue like men, in houses of their owne.</l>
+               <l>Then neede they not in griefe of hart resound,</l>
+               <l>We wil compound, O king wee will comhound.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:190333:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
